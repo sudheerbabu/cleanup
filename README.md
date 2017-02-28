@@ -1,3 +1,4 @@
-# cleanup first set check
+# cleanup first setup check
 first local
 side projeect
+first remote
