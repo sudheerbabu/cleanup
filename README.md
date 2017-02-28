@@ -1,2 +1,2 @@
-# cleanup first setup check
+# cleanup first set check
 side projeect
